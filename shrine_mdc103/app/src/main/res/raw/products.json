@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Future lipstick",
+    "url": "https://www.beautypie.com/_next/image?url=https%3A%2F%2Fd2csxpduxe849s.cloudfront.net%2Fmedia%2F192DFBC7-8953-4970-B7753853A910CFA9%2F93138EED-D622-44D4-BD8F7D02F607CE79%2FCBF1A36D-36D8-4D98-8F8FB43FB78E3455%2FOTF%20BETA-images-renamed-Futurelipstick_FuturelipstickMatte_1014148_2000x2000_WEB_40.jpg&w=1024&q=85",
+    "price": "$33"
+  },
+  {
+
+    "title": "FITme foundation",
+    "url": "https://pyxis.nymag.com/v1/imgs/a89/d69/aa82a67d29681303c7a0e008c02f4614b7.rsquare.w600.jpg",
+    "price": "$50"
+  },
+  {
+    "title": "NYX eye-liner",
+    "url": "https://m.media-amazon.com/images/I/61cOJnUa3oL._SL1500_.jpg",
+    "price": "$12"
+  },
+  {
+    "title": "HUDA eyeshadow",
+    "url": "https://www.sephora.com/productimages/sku/s2697456-main-zoom.jpg?imwidth=612",
+    "price": "$98"
+  },
+  {
+    "title": "Earrings",
+    "url": "https://static.mejuri.com/mejuri-com/image/fetch/c_scale,f_auto,q_60,w_1500/https://static.mejuri.com/legacy-front/production/system/spree/products/30911/original/3-SculpturalHoop-V-Clasp_140.jpg?1699480436",
+    "price": "$25"
+  },
+  {
+    "title": "L'Oreal Mascara",
+    "url": "https://www.cvs.com/bizcontent/merchandising/productimages/high_res/71249672907.jpg?im=Resize=(1000,1000)",
+    "price": "$35"
+  },
+  {
+    "title": "CHANEL perfume",
+    "url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRtVVholMbZop6keh6bb9hvrYDFe2v1qcNgCl2sipe5syF3muaaKBAWINbh75EJFWoy_dlu6nT8-QFs9-mlwLnChWY0fR2loEWKoC3s5D13p6Z613jMQUlwYYg",
+    "price": "$156"
+  },
+  {
+    "title": "GRO hair serum",
+    "url": "https://vegamour.com/cdn/shop/products/gro-advanced-hair-serum-front-brown-background-matching.jpg?v=1627574869&width=1920",
+    "price": "$40"
+  },
+  {
+    "title": "Cetaphil Facewash",
+    "url": "https://m.media-amazon.com/images/I/71kVsa9eOpL._SL1500_.jpg",
+    "price": "$10"
+  },
+  {
+    "title": "Head & Shoulders",
+    "url": "https://i5.walmartimages.com/seo/Head-and-Shoulders-Dandruff-Shampoo-Classic-Clean-8-45-fl-oz_5b87459e-fbdc-4a00-b90d-62d18147773e.a33e5019754b5677a089a08c9d8dea30.jpeg",
+    "price": "$28"
+  }
+]
