@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MidtermGrishmaPandiyath</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="calculate">Calculate</string>
+
+
+    <string name="result"></string>
+    <string name="title">Converting meters into millimeters</string>
+
+
+    <string name="hint_meters">Meters</string>
+    <string name="developed">This app was developed by Grishma Pandiyath</string>
+    <string name="app_title">Converter</string>
+</resources>
