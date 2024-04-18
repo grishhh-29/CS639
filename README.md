@@ -1,6 +1,6 @@
 ![Image](https://github.com/grishhh-29/CS639/blob/main/Repo.JPG)
 # CS639 Repository
-This repository is for the class **CS639: Mobile Application Development**.
+This repository is for the class **CS639: Mobile Application Development**.  
 *It includes all the projects created by me in the duration of the course.*
 
 ### Projects 
@@ -14,22 +14,22 @@ This repository is for the class **CS639: Mobile Application Development**.
 This application offers a detailed personal biography, encompassing interests and contact information.
 
 ##### [2. Shrine (MDC-101 and MDC-102)]
-This app is an e-commerce platform, which includes login capabilities with validation, showcasing a catalog of items. 
+This app is an e-commerce platform, which includes login capabilities with validation, showcasing a catalog of items.  
 Reference: [MDC-101] and [MDC-102]
 
 ##### [3. Shrine (MDC-103)]
-This app is an extension of the Shrine app. The color, elevation, and typography of the Material Components has been modified to style the app.
+This app is an extension of the Shrine app. The color, elevation, and typography of the Material Components has been modified to style the app.  
 Reference: [MDC-103]
 
 ##### [4. Shrine (MDC-104)]
-This app is an extension of the Shrine app. The backdrop menu has been added to the app. Additionally, a reveal motion has been added to the menu button.
+This app is an extension of the Shrine app. The backdrop menu has been added to the app. Additionally, a reveal motion has been added to the menu button.  
 Reference: [MDC-104]
 
 ##### [5. Converter (Midterm)]
 This app was developed as part of our midterm. It converts converts meters to millimeters. It will take meters as inputs and return millimeters as output.
 
 ##### [6. Birthday Card]
-This app displays a happy birthday message to the user.
+This app displays a happy birthday message to the user.  
 Reference: [Birthday Card]
 
 
