@@ -1,4 +1,4 @@
-![Image](C:\Users\Admin\Downloads\Repo.jpg)
+![Image](https://github.com/grishhh-29/CS639/blob/main/Repo.JPG)
 # CS639 Repository
 This repository is for the class **CS639: Mobile Application Development**.
 *It includes all the projects created by me in the duration of the course.*
